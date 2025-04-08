@@ -1,0 +1,1 @@
+fliftbot_interfaces.srv.Lift_Request(order='up', center=[1.8835000000000002, 0.3075], angle=-1.5707963267948966, corner_dots=fliftbot_interfaces.msg.CornerDots(tl=[2.42, 1.01], tr=[1.365, 0.99], bl=[2.402, -0.375], br=[1.355, -0.38]))
